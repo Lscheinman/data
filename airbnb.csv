@@ -1,0 +1,102 @@
+id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,reviews_per_month,calculated_host_listings_count,availability_365
+2015,Berlin-Mitte Value! Quiet courtyard/very central,2217,Ian,Mitte,Brunnenstr. Süd,52.53453732,13.40255693,Entire home/apt,60,4,118,3.76,4,141
+2695,Prenzlauer Berg close to Mauerpark,2986,Michael,Pankow,Prenzlauer Berg Nordwest,52.54851279,13.40455283,Private room,17,2,6,1.42,1,0
+3176,Fabulous Flat in great Location,3718,Britta,Pankow,Prenzlauer Berg Südwest,52.53499619,13.41757867,Entire home/apt,90,62,143,1.25,1,220
+3309,BerlinSpot Schöneberg near KaDeWe,4108,Jana,Tempelhof - Schöneberg,Schöneberg-Nord,52.49885493,13.34906453,Private room,26,5,25,0.39,1,297
+7071,BrightRoom with sunny greenview!,17391,Bright,Pankow,Helmholtzplatz,52.54315726,13.4150911,Private room,42,2,197,1.75,1,26
+9991,Geourgeous flat - outstanding views,33852,Philipp,Pankow,Prenzlauer Berg Südwest,52.53303077,13.41604682,Entire home/apt,180,6,6,0.15,1,137
+14325,Apartment in Prenzlauer Berg,55531,Chris + Oliver,Pankow,Prenzlauer Berg Nordwest,52.54784641,13.40556224,Entire home/apt,70,90,23,0.23,3,129
+16401,APARTMENT TO RENT,59666,Melanie,Friedrichshain-Kreuzberg,Frankfurter Allee Süd FK,52.510514,13.45785024,Private room,120,30,0,,1,365
+16644,In the Heart of Berlin - Kreuzberg,64696,Rene,Friedrichshain-Kreuzberg,nördliche Luisenstadt,52.50479227,13.43510185,Entire home/apt,90,60,48,0.47,2,159
+17409,Downtown Above The Roofs In Berlin,67590,Wolfram,Pankow,Prenzlauer Berg Südwest,52.52907092,13.41284339,Private room,45,3,279,2.83,1,42
+17904,Beautiful Kreuzberg studio/WiFi (reg. pend.),68997,Matthias,Neukölln,Reuterstraße,52.49547633,13.42182128,Entire home/apt,49,5,223,2.1,1,232
+20858,Designer Loft in Berlin Mitte,71331,Marc,Pankow,Prenzlauer Berg Südwest,52.53695243,13.40761503,Entire home/apt,129,3,56,0.75,1,166
+21869,Studio in the Heart of Kreuzberg,64696,Rene,Friedrichshain-Kreuzberg,nördliche Luisenstadt,52.50273333,13.43461986,Entire home/apt,70,60,60,0.61,2,129
+22415,Stylishly furnished 3 room flat,86068,Kiki,Friedrichshain-Kreuzberg,südliche Luisenstadt,52.49485062,13.4285006,Entire home/apt,98,3,61,0.59,2,257
+22677,Prenzel garden with leafy terrace,87357,Ramfis,Mitte,Brunnenstr. Süd,52.53434836,13.40557652,Entire home/apt,160,3,223,2.27,1,228
+23834,Apartment in the heart of Berlin,94918,Tanja,Friedrichshain-Kreuzberg,Tempelhofer Vorstadt,52.48971443,13.37974758,Entire home/apt,65,60,96,0.94,1,275
+24569,Sunny & Wheelchair accessible,99662,Dominik,Pankow,Prenzlauer Berg Südwest,52.53079085,13.41808444,Entire home/apt,90,3,18,0.18,2,3
+25653,Sunny & stylish 150 sqm apartment,99662,Dominik,Pankow,Prenzlauer Berg Süd,52.53025874,13.41946696,Entire home/apt,90,4,5,0.05,2,15
+26543,Helmholtzplatz Bright&Spacious Apt.,112675,Terri,Pankow,Helmholtzplatz,52.54406239,13.42137652,Entire home/apt,197,3,163,1.63,1,336
+28156,Beautiful apartment in Prenzlauer Berg,55531,Chris + Oliver,Pankow,Prenzlauer Berg Nordwest,52.54671937,13.40511702,Entire home/apt,70,90,28,0.29,3,191
+28268,Cozy Berlin Friedrichshain for1/6 p,121580,Elena,Friedrichshain-Kreuzberg,Frankfurter Allee Süd FK,52.51338523,13.46994751,Entire home/apt,90,5,30,0.33,1,55
+28711,Silent Studio-apt in Kreuzkölln,84157,Emanuela,Neukölln,Reuterstraße,52.48610615,13.43481698,Entire home/apt,60,2,1,0.02,10,341
+29279,Quiet 2 rooms next Helmholtzplatz,54283,Marine,Pankow,Helmholtzplatz,52.54178765,13.42388316,Entire home/apt,130,60,69,0.7,3,221
+30295,PEACEFUL FLAT WITH VINTAGE TOUCH IN PRENZLAUERBERG,485838,Michele,Pankow,Helmholtzplatz,52.54596726,13.42235887,Entire home/apt,100,4,240,2.42,4,296
+31440,"Nice Room in Prenzlauerberg,",135046,Thomas,Pankow,Helmholtzplatz,52.54308929,13.42245309,Private room,44,1,28,4.94,1,361
+33043,Central Bright Bellevue Free Parking WIFI 4G,143180,Claudio&Irina,Mitte,Moabit Ost,52.52141798,13.3570823,Entire home/apt,62,3,144,1.44,1,343
+35642,Cozy 2 Room Apartment in trendy Prenzlauer Berg,153252,Thorsten,Pankow,Prenzlauer Berg Nord,52.54936126,13.41822767,Entire home/apt,55,60,1,0.01,1,89
+36480,ChimaysaberlinB&B Single Bedroom,156897,Helen,Charlottenburg-Wilm.,Otto-Suhr-Allee,52.51967658,13.30208876,Private room,40,1,33,1.63,2,297
+37004,WONDERFUL ROOM for longer stays Berlin Central,159734,Bernd,Tempelhof - Schöneberg,Schöneberg-Nord,52.49338924,13.36481314,Private room,25,5,21,0.21,1,329
+37052,QUIET n SUNNY FLAT in MITTE/PBERG,149093,Rob,Mitte,Brunnenstr. Süd,52.53822033,13.40462524,Entire home/apt,52,2,307,3.04,2,25
+37836,Weekend in Berlin Party Center - II,272316,Desiree,Friedrichshain-Kreuzberg,südliche Luisenstadt,52.49847237,13.4401319,Private room,39,1,161,1.59,2,120
+38074,3 months min stay in the heart of Prenzlauer Berg!,163384,Alan & Kasia,Pankow,Prenzlauer Berg Süd,52.53680114,13.42546637,Entire home/apt,80,84,102,1.03,10,221
+38296,nice apartment to rent in Neukölln in September!,164310,Oliver,Neukölln,Schillerpromenade,52.48586261,13.42361908,Entire home/apt,80,10,6,0.06,1,310
+40600,room-artist loft berlin kreuzberg ,174970,Judith,Friedrichshain-Kreuzberg,Tempelhofer Vorstadt,52.48844228,13.42059982,Private room,50,3,50,0.62,2,0
+41217,Beautiful room in Prenzlauer Berg,179110,Bn,Pankow,Prenzlauer Berg Südwest,52.53640787,13.41231045,Private room,43,2,70,0.7,1,0
+41306,"Schöner Altbau, 6 min zum Alexanderpatz.",179872,Sebastian,Pankow,Prenzlauer Berg Süd,52.53028018,13.42347848,Private room,40,1,1,0.02,1,0
+42742,Spacious 35m2 in Central Apartment,272316,Desiree,Friedrichshain-Kreuzberg,südliche Luisenstadt,52.49666752,13.44033972,Private room,36,1,25,0.32,2,217
+42809,The Berlin Artist Apartment.,186851,Tina,Friedrichshain-Kreuzberg,Frankfurter Allee Süd FK,52.5117598,13.45536168,Entire home/apt,119,4,109,1.14,1,285
+43123,Lux Berlin 1: boutique & design,188116,Lena,Pankow,Prenzlauer Berg Südwest,52.53946253,13.4088341,Entire home/apt,90,5,65,0.66,2,186
+44083,Riverside View Apartment,193038,Michaela,Treptow - Köpenick,Alt  Treptow,52.4904007,13.4408459,Private room,42,3,11,0.12,1,65
+44423,Lovely accommodation in Berlin,194957,Robert,Friedrichshain-Kreuzberg,Frankfurter Allee Süd FK,52.50888447,13.45636098,Private room,56,2,101,1.02,1,32
+46161,Design-Room in Mitte/PrenzlauerBerg,201936,Giorgio,Pankow,Prenzlauer Berg Südwest,52.53254195,13.40982566,Private room,50,4,151,1.63,1,0
+46172,Chic Loft By Kastanienallee,206338,Heike,Mitte,Brunnenstr. Süd,52.53808976,13.4053649,Entire home/apt,48,60,38,0.48,2,264
+47938,Lovely 2 BR flat in Prenzlauer Berg,218479,Laura,Pankow,Prenzlauer Berg Südwest,52.53219076,13.41987525,Entire home/apt,160,3,35,0.35,1,32
+48955,Cozy studio in the heart of Berlin,211722,Anne,Pankow,Prenzlauer Berg Südwest,52.53626706,13.42081278,Entire home/apt,70,4,0,,1,129
+52734,"LUMINOUS, LOFT LIKE APT IN F'HAIN",112446,Boris,Friedrichshain-Kreuzberg,Frankfurter Allee Süd FK,52.51120881,13.45727807,Entire home/apt,88,5,5,0.07,1,0
+54952,Riverfront Panorama,258697,Trent,Mitte,Alexanderplatz,52.52359308,13.38740637,Private room,55,4,156,1.6,1,33
+55298,Couch in Livingroom available,261030,Edna,Tempelhof - Schöneberg,Schöneberg-Nord,52.4983793,13.34181569,Shared room,88,2,0,,1,365
+55455,Panorama Apartment Berlin Centre,261953,Clara,Mitte,Alexanderplatz,52.52114536,13.40608327,Entire home/apt,90,2,1,0.01,1,67
+55853,Hauptstadt-Domizil,264072,Britta,Charlottenburg-Wilm.,Neue Kantstraße,52.50340301,13.29202553,Entire home/apt,55,60,11,0.16,1,285
+57049,130 sqm with a view on Mauer Park,54283,Marine,Pankow,Prenzlauer Berg Nordwest,52.54786784,13.40416737,Entire home/apt,200,3,81,0.84,3,68
+57209,Top apartment in Mitte-Arkonaplatz,272286,Vilius,Mitte,Brunnenstr. Süd,52.53683096,13.39896651,Entire home/apt,80,3,160,1.68,1,264
+57792,Bungalow mit Garten in Berlin Zehlendorf,275784,Jo,Steglitz - Zehlendorf,Ostpreußendamm,52.42530983,13.32806161,Entire home/apt,49,2,3,0.03,1,0
+58041,Apt. in a historic ambience+Wifi from 18.11.2018,145808,Veronika,Mitte,Alexanderplatz,52.5277091,13.39090247,Entire home/apt,55,90,72,0.88,1,352
+58780,light quiet beautiful 4 room flat,281614,Katja,Pankow,Prenzlauer Berg Süd,52.53420467,13.42671167,Entire home/apt,130,5,32,0.37,2,211
+59249,Lux Berlin 2: luxury & design ,188116,Lena,Pankow,Prenzlauer Berg Südwest,52.54088868,13.40944881,Entire home/apt,90,5,76,0.85,2,149
+60161,House at the water,898681,Michael,Treptow - Köpenick,Schmöckwitz/Karolinenhof/Rauchfangswerder,52.37827969,13.65275115,Entire home/apt,120,2,7,0.13,4,86
+63052,"Beautiful, quiet, clean & central.",307513,Shoshik,Neukölln,Neuköllner Mitte/Zentrum,52.46892121,13.43454101,Private room,37,6,96,1.28,2,347
+63468,Ferienwohnung Kreuzberg,309364,Kreuzberger,Friedrichshain-Kreuzberg,nördliche Luisenstadt,52.50359828,13.43205992,Entire home/apt,52,2,89,1.16,3,323
+64245,Room in great area Prenzlauer Berg,312373,Christian,Pankow,Prenzlauer Berg Nordwest,52.54649889,13.40632947,Private room,44,3,45,0.5,2,123
+64590,Great apt. directly on the canal!,315681,Mirjam,Friedrichshain-Kreuzberg,südliche Luisenstadt,52.49497033,13.42399149,Entire home/apt,102,2,34,0.39,1,0
+68142,Cute sunny room in Friedrichshain,337021,Dayna,Friedrichshain-Kreuzberg,Frankfurter Allee Nord,52.52489353,13.45385735,Private room,29,2,70,0.91,1,58
+68448,Spacious & quiet apt near Mauerpark,163384,Alan & Kasia,Pankow,Prenzlauer Berg Nord,52.5497981,13.41595961,Entire home/apt,84,3,220,2.43,10,315
+72079,"Italian Design at Kudamm ,WiFi DSL free",261488,P. Charlotte,Charlottenburg-Wilm.,Kantstraße,52.50780326,13.31870726,Entire home/apt,80,3,37,0.55,2,349
+73302,Penthouse-Loft  Berlin-Schöneberg,382638,Hardy,Tempelhof - Schöneberg,Schöneberg-Nord,52.50105434,13.35032089,Entire home/apt,69,3,200,2.14,1,178
+74614,City apartment in Prenzlauer Berg,393047,Fatena,Pankow,Prenzlauer Berg Südwest,52.53769513,13.40853552,Entire home/apt,185,4,59,0.76,1,359
+80843,Berlin City Studio Apt.,437628,Oliver,Charlottenburg-Wilm.,Schmargendorf,52.48086413,13.28998186,Entire home/apt,49,2,69,0.75,1,28
+81049,Lux.2BR Apart.BerlinMitte Lic. 01/Z/ZA/ (Phone number hidden by Airbnb),249501,Elfie And  Paul,Mitte,Regierungsviertel,52.52183918,13.39067216,Entire home/apt,155,4,39,0.43,1,286
+81081,Beautiful Prenzlauer Berg Apt,425899,Bernd+Katja :-),Pankow,Prenzlauer Berg Nord,52.54968096,13.41527791,Entire home/apt,66,3,238,2.59,1,69
+82893,Apartment 2 Mitte,451311,Ruth,Mitte,Brunnenstr. Süd,52.53199962,13.38284751,Entire home/apt,70,3,71,0.8,3,225
+83183,Garden Apartment-Prenzlauer Berg,453109,Angela L.,Pankow,Prenzlauer Berg Süd,52.53677323,13.42446883,Entire home/apt,53,2,197,2.23,2,249
+83568,Beautiful stylish Prenzlauer Berg rooftop apt.,455670,Olaf,Pankow,Helmholtzplatz,52.54484867,13.4189099,Entire home/apt,70,3,2,1.54,1,139
+83614,"Spacious & Elegant Flat, 2 bathrooms, full kitchen",456085,Louis,Pankow,Helmholtzplatz,52.54621994,13.41785749,Entire home/apt,92,1,265,2.86,2,323
+85560,Apartment 1 in Berlin,451311,Ruth,Mitte,Brunnenstr. Süd,52.53181501,13.38229897,Entire home/apt,75,3,47,1.09,3,328
+86514,"Sunny room, Kreuzberg ",464827,Hayley,Friedrichshain-Kreuzberg,südliche Luisenstadt,52.49820825,13.44177879,Private room,80,2,44,0.48,1,365
+87549,Independent room in green Kreuzberg,81113,Carol,Friedrichshain-Kreuzberg,Tempelhofer Vorstadt,52.49615556,13.37397437,Private room,48,2,167,1.82,1,336
+89102,Bright loft in the Kastanienallee,485838,Michele,Pankow,Prenzlauer Berg Südwest,52.54052906,13.4099496,Entire home/apt,114,10,57,0.63,4,109
+91290,Gardenside flat for 2-3 guests,382397,Josep,Neukölln,Reuterstraße,52.49003806,13.42619064,Entire home/apt,60,2,44,0.48,1,2
+102882,STORAGE APARTMENT URBAN,86173,Sebastian,Friedrichshain-Kreuzberg,Tempelhofer Vorstadt,52.48878301,13.42195632,Entire home/apt,506,3,112,1.24,2,0
+106290,GREAT apartment in BERLIN-KREUZBERG,542540,Bart,Friedrichshain-Kreuzberg,südliche Luisenstadt,52.49727118,13.43176773,Entire home/apt,50,1,154,1.69,1,315
+106331,Beautiful flat in Prenzlauer Berg,551159,Lauri,Pankow,Prenzlauer Berg Süd,52.53370315,13.43669904,Entire home/apt,82,60,91,1,2,319
+107968,"Gästeapartment Berlin- Schöneberg
+
+",558933,Frank,Tempelhof - Schöneberg,Schöneberg-Nord,52.49854777,13.3429405,Entire home/apt,80,3,59,0.66,1,363
+109658,Spacious Studio Apartment in Berlin,565578,Miriam,Friedrichshain-Kreuzberg,Frankfurter Allee Nord,52.52426457,13.45206718,Entire home/apt,60,3,68,0.77,1,236
+111579,IN THE CENTER OF BERLIN.....,570951,S. Kjel,Mitte,Alexanderplatz,52.52720112,13.40952821,Entire home/apt,70,4,114,1.33,2,194
+114763,In the heart of Berlin!,582007,Julia,Tempelhof - Schöneberg,Schöneberg-Süd,52.48805003,13.35325038,Entire home/apt,130,3,53,0.74,1,140
+115576,Bed and Garden,584750,Axel,Pankow,Blankenfelde/Niederschönhausen,52.58150269,13.39785818,Entire home/apt,69,2,3,0.05,1,344
+116832,Clean & Spacious Kreuzberg Apt,590130,Oliver,Friedrichshain-Kreuzberg,Tempelhofer Vorstadt,52.4909442,13.39619443,Entire home/apt,75,14,3,0.06,1,310
+117649,F43 - your base for Berlin,594164,Ralph&Maria,Friedrichshain-Kreuzberg,südliche Luisenstadt,52.50004366,13.44264896,Entire home/apt,68,60,84,0.93,1,266
+121888,"private, calm but very central",611847,Michel,Friedrichshain-Kreuzberg,Frankfurter Allee Nord,52.5181772,13.4639958,Entire home/apt,125,7,5,0.06,1,0
+125349,Cottage Berlin-Friedrichshagen,623521,Andre,Treptow - Köpenick,Friedrichshagen,52.4510523,13.63528316,Entire home/apt,70,2,26,0.49,1,340
+127708,Design Jewel in the midst of MITTE!,632174,Stéphanie,Mitte,Alexanderplatz,52.5196488,13.41098973,Entire home/apt,89,2,443,5.2,5,295
+128827,Gorgeous Home in the City's Heart,632971,Kai,Friedrichshain-Kreuzberg,Frankfurter Allee Süd FK,52.50948322,13.46119273,Entire home/apt,59,2,16,0.37,1,302
+135097,Nähe KaDeWe & Kurfürstendamm,662534,Bernd,Tempelhof - Schöneberg,Schöneberg-Nord,52.50089197,13.34691848,Entire home/apt,96,1,148,1.67,1,202
+138955,Guest Apartment near Viktoriapark,677988,Pigi,Friedrichshain-Kreuzberg,Tempelhofer Vorstadt,52.49097476,13.37691015,Entire home/apt,75,2,191,2.13,1,0
+139769,Mitte Auguststrasse Room Central&Charming,681637,Stefano,Mitte,Alexanderplatz,52.52810573,13.39194616,Private room,55,2,226,2.54,1,322
+143605,""" Berlin Fuffa's 40m2  apartment """,696492,Gaston & Elena,Neukölln,Schillerpromenade,52.47677777,13.42437149,Entire home/apt,55,30,55,0.63,1,312
+145249,Private Wing of Penthouse - Terrace,703493,Evelyna,Friedrichshain-Kreuzberg,Frankfurter Allee Nord,52.51819219,13.46122088,Private room,70,3,107,1.41,1,50
+147946,1-room-flat in Prenzlauer Berg/WIFI,712973,Jan,Pankow,Prenzlauer Berg Nordwest,52.54854936,13.40851675,Entire home/apt,31,183,39,0.45,1,324
+149849,Cosy room in Mitte/Rosenthaler pl.,722460,George,Mitte,Alexanderplatz,52.52981719,13.40259804,Private room,40,2,47,0.54,1,84
